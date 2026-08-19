@@ -73,6 +73,25 @@ Complete-React-Learning/
 │       ├── package.json
 │       └── vite.config.js
 │
+├── Material-UI/
+│   └── mini-project-react/
+│       │
+│       ├── src/
+│       │   ├── App.jsx
+│       │   ├── App.css
+│       │   ├── index.css
+│       │   ├── main.jsx
+│       │   └── assets/
+│       │       └── react.svg
+│       │
+│       ├── public/
+│       │   └── vite.svg
+│       │
+│       ├── package.json
+│       ├── package-lock.json
+│       ├── vite.config.js
+│       └── index.html
+│
 └── README.md
 ```
 
@@ -155,7 +174,32 @@ I also practiced updating:
 * Form data
 
 ---
+# 03. 🎨 Material UI
 
+**Location:** `Material-UI/mini-project-react`
+
+This project introduces **Material UI (MUI)** and demonstrates how to build React interfaces using pre-built, customizable UI components.
+
+### Concepts & Practice
+
+| Area | Concepts |
+|---|---|
+| 🎨 UI Components | MUI component library |
+| 🧩 Components | Reusable React + MUI components |
+| 🖱️ User Interface | Buttons, inputs, and interactive elements |
+| 📐 Styling | MUI styling and component customization |
+| ⚛️ React Integration | Using MUI components inside React applications |
+| 📱 Responsive UI | Building cleaner and responsive interfaces |
+
+### Technologies
+
+```text
+React
+Material UI (MUI)
+Vite
+JavaScript
+CSS
+```
 # 🛠️ Tech Stack
 
 <p align="center">
@@ -263,6 +307,12 @@ http://localhost:5173
 ✓ Array State
 ✓ Previous State
 ✓ Reusable Components
+✓ Material UI (MUI)
+✓ Pre-Built UI Components
+✓ MUI Component Customization
+✓ MUI Styling
+✓ Responsive UI Development
+✓ React + MUI Integration
 ```
 
 ---
@@ -284,13 +334,21 @@ JavaScript
      ↓
 React Fundamentals
      ↓
-Components & Props
+JSX & Components
+     ↓
+Props & Component Composition
      ↓
 Events & Forms
      ↓
-State Management
+Conditional & List Rendering
+     ↓
+State Management (useState)
      ↓
 Interactive Applications
+     ↓
+Material UI (MUI) 🎨
+     ↓
+Reusable & Responsive UI
      ↓
 Advanced React
      ↓
